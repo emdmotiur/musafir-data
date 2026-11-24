@@ -1,0 +1,11 @@
+{
+  "version_code": 49,
+  "version_name": "2.5.9",
+  "apk_url": "https://github.com/emdmotiur/musafir-data/releases/download/v2.5.9/Musafir.apk",
+  "sha256": "749c998371fdd53cd84d86266131ddae169874eb9d884d943006df1f52f84062",
+  "file_size_bytes": 12501299,
+  "published_at": "2026-11-24",
+  "force_update": false,
+  "release_notes_bn": "• নতুন ফিচার, বাগ ফিক্স এবং পারফরম্যান্স উন্নতি যুক্ত করা হয়েছে",
+  "release_notes_en": "• Updated to Musafir v2.5.9 with latest improvements and fixes"
+}
