@@ -1,11 +1,11 @@
 {
-  "version_code": 50,
-  "version_name": "2.6.0",
-  "apk_url": "https://github.com/emdmotiur/musafir-data/releases/download/v2.6.0/Musafir.apk",
-  "sha256": "abce1cddebd63f8cf4d3712a3092fd16ac7f465ac01e215daea4c7e58930821b",
-  "file_size_bytes": 12501306,
+  "version_code": 51,
+  "version_name": "2.6.1",
+  "apk_url": "https://github.com/emdmotiur/musafir-data/releases/download/v2.6.1/Musafir.apk",
+  "sha256": "041f41d903ddddc01325b642a2614e5db4301f4f3ca0166564f47cdfc20efb36",
+  "file_size_bytes": 12501827,
   "published_at": "2026-11-24",
   "force_update": false,
   "release_notes_bn": "• নতুন ফিচার, বাগ ফিক্স এবং পারফরম্যান্স উন্নতি যুক্ত করা হয়েছে",
-  "release_notes_en": "• Updated to Musafir v2.6.0 with latest improvements and fixes"
+  "release_notes_en": "• Updated to Musafir v2.6.1 with latest improvements and fixes"
 }
